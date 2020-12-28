@@ -13,12 +13,15 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: teal
-    accent: cyan
+    primary: pink
+    accent: purple
+  favicon: images/favicon.png
+  logo: images/favicon.png
 
 repo_url: https://github.com/dan-mcm/goty
 repo_name: McMahon GOTY
 edit_uri: edit/master/goty
+
 
 markdown_extensions:
   - admonition
