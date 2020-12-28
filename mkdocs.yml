@@ -3,8 +3,9 @@ site_name: McMahon GOTY
 nav:
   - Home: index.md
   - 2020:
-    - Dave: 2020/dave.md
+    - John: 2020/john.md
     - Steve: 2020/steve.md
+    - Dave: 2020/dave.md
     - Dan: 2020/dan.md
 
 theme:
