@@ -1,3 +1,3 @@
 # McMahon GOTY Lists
 
-<img src="../images/home/covidchristmas.jpg"/>
+<img src="./images/home/covidchristmas.jpg"/>
