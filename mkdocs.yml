@@ -2,6 +2,7 @@ site_name: McMahon GOTY
 
 nav:
   - Home: index.md
+  - Brians Corner: brians-corner/2021/january.md
   - 2020:
     - John: 2020/john.md
     - Steve: 2020/steve.md
