@@ -1,4 +1,4 @@
-# January 2021 - Brians Game Corner
+# January 2021
 
 ## Dark Devotion – completed
 
@@ -13,8 +13,9 @@ RPG Rogue game, high difficulty at times however not too ludacris, story as alwa
 
 <b>Would pay?</b> €20  
 <b>Cost?</b> €15
-
+<figure>
 <img src="https://purenintendo.com/wp-content/uploads/2019/12/dark-devotion-switch-01-624x351.jpg"/>
+</figure>
 
 ## Morbid and The 7 Acolytes - completed
 
@@ -30,7 +31,9 @@ Billed as a “Horror Punk action” the game is a fun top down view linear enou
 <b>Would pay?</b> €20  
 <b>Cost?</b> €10
 
+<figure>
 <img src="https://cdn.gamer-network.net/2020/articles/2020-06-14-17-03/-1592150587933.jpg/EG11/thumbnail/1920x1075/format/jpg/quality/80"/>
+</figure>
 
 ## Feudal Alloy - completed
 
@@ -46,7 +49,9 @@ Graphically speaking a lovely 2d platformer with very limited and light RPG elem
 <b>Would pay?</b> €15  
 <b>Cost?</b> €15
 
+<figure>
 <img src="https://img.delvenetworks.com/gdX9KjCLT1wmBYosX6fyt0/GeRlHwtvTaorhkCXvXsJCw/C1d.1024x576.jpeg"/>
+</figure>
 
 ## Foregone - completed
 
@@ -62,7 +67,9 @@ Delighted I found this little gem with my own research, coming to pc in March th
 <b>Would pay?</b> €20  
 <b>Cost?</b> €15
 
+<figure>
 <img src="https://www.gamegrin.com/assets/games/foregone/screenshots/_resampled/SetWidth640-foregone-screenshot-10.jpg"/>
+</figure>
 
 ## Fe - Abandoned after 30 mins
 
@@ -71,4 +78,6 @@ Delighted I found this little gem with my own research, coming to pc in March th
 
 Aload of indie nonsense, I get what they were trying to do but it’s a big fat no from me, unless I can smoke whatever the developers where smoking when they put this shite togeather.
 
+<figure>
 <img src="https://cdn.vox-cdn.com/thumbor/9W8JIL64HGoKEmkmI997ISmNpAI=/0x0:1023x575/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/56328503/screenshot_1.jpg.adapt.crop16x9.1023w.0.jpg"/>
+</figure>
