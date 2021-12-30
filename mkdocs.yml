@@ -9,6 +9,8 @@ nav:
     - Steve: 2020/steve.md
     - Dave: 2020/dave.md
     - Dan: 2020/dan.md
+  - 2021:
+    - Steve: 2021/steve.md
 
 theme:
   name: material
@@ -23,7 +25,6 @@ theme:
 repo_url: https://github.com/dan-mcm/goty
 repo_name: McMahon GOTY
 edit_uri: edit/master/goty
-
 
 markdown_extensions:
   - admonition
